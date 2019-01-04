@@ -1,0 +1,6 @@
+[package]
+name = "ss-ntru-pke-attack-simulation"
+version = "0.1.0"
+authors = ["Alexander Nilsson <a.code@nilsson.link>"]
+
+[dependencies]
