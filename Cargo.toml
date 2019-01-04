@@ -1,6 +1,16 @@
 [package]
 name = "ss-ntru-pke-attack-simulation"
 version = "0.1.0"
-authors = ["Alexander Nilsson <a.code@nilsson.link>"]
+authors = ["Alexander Nilsson <alexander.nilsson@eit.lth.se>"]
 
 [dependencies]
+structopt = "0.2"
+rand = "0.5"
+gag = "0.1.10"
+time = "0.1"
+serde = "1.0"
+serde_derive = "1.0"
+bincode = "*"
+plotlib = "*"
+ctrlc = "3.1"
+promptly = "0.1.5"
